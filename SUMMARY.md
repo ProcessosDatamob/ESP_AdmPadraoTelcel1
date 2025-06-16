@@ -60,7 +60,7 @@
   * [Mensages y Comandos](portal/mensajes-y-comandos/README.md)
     * [Activación de Aplicaciones de Sistema a través de Comando](portal/mensajes-y-comandos/activacion-de-aplicaciones-de-sistema-a-traves-de-comando.md)
   * [Compartir Documentos](portal/compartir-documentos.md)
-  * [Localización](portal/ubicacion/README.md)
+  * [Ubicación](portal/ubicacion/README.md)
     * [Ubicación del Dispositivos](portal/ubicacion/ubicacion-de-los-dispositivos.md)
     * [Historial de Ubicación](portal/ubicacion/historial-de-ubicacion.md)
   * [Ayuda](portal/ayuda/README.md)
