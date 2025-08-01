@@ -2,4 +2,4 @@
 
 ### **Novedades**
 
-* Configuraciones Avanzadas en el Security Browser
+* [Configuraciones Avanzadas en el Security Browser](configuraciones-avanzadas-en-el-security-browser.md)

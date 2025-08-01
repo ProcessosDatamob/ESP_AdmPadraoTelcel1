@@ -70,7 +70,6 @@
   * [Release Notes V 20.3.0](release-notes/release-notes-v-20.3.0/README.md)
     * [Registro de Grupos por IMEI en Lote](release-notes/release-notes-v-20.3.0/registro-de-grupos-por-imei-en-lote.md)
     * [Filtro de Fechas en las Ubicaciones del Dashboard](release-notes/release-notes-v-20.3.0/filtro-de-fechas-en-las-ubicaciones-del-dashboard.md)
-    * [Configuración de Métodos de Entrada en el Portal​](release-notes/release-notes-v-20.3.0/configuracion-de-metodos-de-entrada-en-el-portal.md)
     * [Desactivación de Personalización del Quiosco​](release-notes/release-notes-v-20.3.0/desactivacion-de-personalizacion-del-quiosco.md)
     * [Configuración de Servicios de Accesibilidad en el Portal​](release-notes/release-notes-v-20.3.0/configuracion-de-servicios-de-accesibilidad-en-el-portal.md)
     * [Impedir Selección de Horarios Iguales para Monitoreo de GPS​](release-notes/release-notes-v-20.3.0/impedir-seleccion-de-horarios-iguales-para-monitoreo-de-gps.md)
