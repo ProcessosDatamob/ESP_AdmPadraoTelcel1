@@ -4,7 +4,7 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 
 Haga clic en el menú "Dispositivos" opción "Lista de dispositivos" para acceder a la pantalla.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se mostrará la siguiente pantalla:
 

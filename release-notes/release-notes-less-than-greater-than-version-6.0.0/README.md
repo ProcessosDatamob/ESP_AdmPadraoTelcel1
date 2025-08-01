@@ -10,7 +10,7 @@
 6. [Configuración del Color de las Fuentes de los Iconos en el Modo Quiosco](configuracion-del-color-de-las-fuentes-de-los-iconos-en-el-modo-quiosco.md)
 7. [Filtros Avanzados en la Pantalla de Dispositivos](filtros-avanzados-en-la-pantalla-de-dispositivos.md)
 8. [Información de la Fecha de la Última Comunicación](informacion-de-la-fecha-de-la-ultima-comunicacion.md)
-9. [Configuración del Fondo de Pantalla en Modo Quiosco](configuracion-del-fondo-de-pantalla-en-modo-quiosco.md)
+9. [Configuración del Fondo de Pantalla en Modo Quiosco](broken-reference)
 10. [Creación de Grupos de Dispositivos en Lote](creacion-de-grupos-de-dispositivos-en-lote.md)
 11. [Configuración de Wi-Fi en Modo Quiosco](configuracion-de-wi-fi-en-modo-quiosco.md)
 12. [Acceso al Manual del Administrador Online](acceso-al-manual-del-administrador-online.md)

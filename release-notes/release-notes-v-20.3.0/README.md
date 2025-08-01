@@ -2,7 +2,6 @@
 
 ### **Novedades**
 
-* Configuración de Aplicaciones Predeterminadas en el Portal
 * Registro de Grupos por IMEI en Lote
 * Filtro de Fechas en las Ubicaciones del Dashboard
 

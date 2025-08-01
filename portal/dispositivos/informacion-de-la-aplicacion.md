@@ -4,7 +4,7 @@ El submenú Información de aplicaciones muestra la información de las aplicaci
 
 Haga clic en el menú "**Dispositivos**" opción "**Información de la aplicación**" para acceder a la pantalla.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se mostrará la siguiente pantalla:
 
