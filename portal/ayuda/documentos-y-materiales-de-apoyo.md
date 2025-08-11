@@ -12,4 +12,4 @@ En esta pantalla es posible acceder a varios documentos:
 **Manual del Usuario:** instrucciones para los usuarios sobre cómo instalar y activar la solución en dispositivos móviles.\
 **Manual del Block SIM:** información para que el usuario realice la instalación y activación de la funcionalidad de Bloqueo de Chip en los dispositivos.
 
-<figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>

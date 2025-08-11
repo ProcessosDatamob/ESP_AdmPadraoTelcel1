@@ -2,11 +2,11 @@
 
 En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acceder a la información del dispositivo haciendo clic en el botón de información.
 
-<figure><img src="../../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
 Después de hacer clic en el ícono mencionado, se mostrará la siguiente pantalla, donde tendremos acceso a la Información del dispositivo:
 
-<figure><img src="../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 La fecha que aparece en **Última Actualización** en la esquina superior derecha de la pantalla de Información del dispositivo, es la fecha de actualización del dispositivo en Google, es decir, se refiere a la comunicación de AMAPI con el portal. Los datos que se actualizan son:
@@ -16,9 +16,9 @@ La fecha que aparece en **Última Actualización** en la esquina superior derech
 * Informe de No conformidad
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
 A continuación, detallaremos la información contenida en cada uno de los campos de las imágenes anteriores:
 

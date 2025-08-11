@@ -4,6 +4,6 @@ Se ha implementado la funcionalidad de gestión de sitios favoritos en el Securi
 
 En la aplicación Security Browser, al acceder a Favoritos, se mostrará la lista de sitios que han sido configurados en el portal.
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 [Volver a la lista de Release Notes](broken-reference)

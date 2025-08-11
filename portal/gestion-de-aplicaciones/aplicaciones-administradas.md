@@ -21,6 +21,6 @@ La pantalla tiene elementos estándar que son similares a otras pantallas del si
 
 Si es el reporte de una página, se genera y descarga automáticamente. Si es el completo, puede tomar unos minutos para ser generado se pone a disposición para su descarga en las notificaciones del sistema como se puede ver a continuación.
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 7. Para copiar la información de la lista de aplicaciones al portapapeles, haga clic en el botón "Copiar".

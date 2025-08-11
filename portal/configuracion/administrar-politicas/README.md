@@ -2,9 +2,9 @@
 
 Al acceder a la opción "**Administrar políticas**" se abrirá la pantalla que se muestra a continuación.
 
-<figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 La pantalla muestra los elementos estándar en todas las pantallas de listado del sistema, que se describen a continuación:
 
@@ -12,7 +12,7 @@ La pantalla muestra los elementos estándar en todas las pantallas de listado de
 2. Listado de las políticas registradas en el sistema.
 3. Se puede acceder a más acciones de gestión para una política haciendo clic en los "..." situados al final de la línea de la política.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 * **Editar política -** abre la pantalla para administrar las preferencias de la política.
 * **Eliminar Política -** abre un cuadro de mensaje para confirmar la eliminación de la directiva. Al hacer clic en el botón "Eliminar" la política se eliminará del sistema.

@@ -14,7 +14,7 @@ Al elegir Alterar política, aparecerá en el centro de la pantalla un cuadro de
 
 La política define las preferencias, incluidos los criterios de hardware, software, sistema operativo, seguridad, etc. Para obtener más información sobre Políticas, lea la sección de configuración de este manual.
 
-<figure><img src="../../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 ### **Deshabilitar Dispositivo**
 
@@ -22,7 +22,7 @@ Cuando se envía el comando 'Desactivar Dispositivos', se desactivan (o quedan b
 
 Para confirmar la operación, en la pantalla de confirmación haga clic en el botón "Deshabilitar".
 
-<figure><img src="../../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 ### **Activar dispositivo**
 
@@ -38,7 +38,7 @@ La opción "Apagar pantalla" envía un comando para apagar la pantalla del dispo
 
 Esta operación envía una orden para reiniciar el dispositivo. Seleccione la opción "Reiniciar dispositivo". Se muestra un mensaje en la pantalla del portal para confirmar el envío de la orden. El mensaje mostrado se muestra a continuación.
 
-<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 ### **Generar nueva contraseña del dispositivo**
 
@@ -52,7 +52,7 @@ Rellene los campos "Nueva contraseña" y "Confirmar nueva contraseña" con valor
 
 La pantalla para generar nueva contraseña del dispositivo se muestra a continuación.
 
-<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **OBSERVACIÓN**\
@@ -66,13 +66,13 @@ Esta operación le permite eliminar un dispositivo. Limpia los datos y configura
 
 Como se puede ver en la siguiente imagen, se muestra un mensaje en la pantalla para información y advertencia. La operación no se puede deshacer, por lo tanto, confirme solo cuando esté seguro de que desea eliminar el dispositivo.
 
-<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 ### **Administrar**
 
 Al hacer clic en la opción **Gestionar**, se mostrará la pantalla **Gestionar Dispositivo**.
 
-<figure><img src="../../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 
 En esta pantalla se agrupan los **Comandos y Acciones del Dispositivo** que ya hemos detallado anteriormente, de acuerdo con el Modo de Gestión o el Sistema Operativo. El comportamiento de cada funcionalidad será el mismo que en la pantalla "Lista de Dispositivos".
 
@@ -93,15 +93,15 @@ A continuación, se explica cada una de ellas:
 
 Al abrir la pantalla de **Gestionar Dispositivo**, la primera pestaña, **Información**, estará preseleccionada. En esta pestaña, es posible editar los siguientes datos del dispositivo: Usuario, Identificación, Grupo, Departamento y Teléfono del Usuario.
 
-<figure><img src="../../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
 
 Además de poder editar los datos, se muestran a continuación listas con **Detalles**, **Instalación**, **Hardware**, **Permisos**, **Conectividad** y **SIM**, relacionadas con el dispositivo gestionado.
 
-<figure><img src="../../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
 
 Las secciones están detalladas en la página de Información del Dispositivo: "Detalles", "Instalación", "Hardware", "Permisos", "Conectividad" y "SIM".
 
@@ -116,19 +116,19 @@ Es posible acceder rápidamente a la pantalla de edición de una política en el
 
 En la pestaña **Aplicaciones**, se puede acceder a la lista de todas las aplicaciones instaladas en el dispositivo, que contienen la siguiente información: ícono, nombre, consumo de datos móviles, consumo de datos en Wi-Fi y tiempo de uso. Los datos de consumo y tiempo de uso se registran dentro del ciclo. Es posible buscar una aplicación específica utilizando el campo de búsqueda, exportar informes completos o de la página, además de copiar la información de la lista. Al hacer clic en los tres puntos, es posible visualizar el gráfico del **Historial de Consumo** de la aplicación durante el ciclo.
 
-<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 #### **Batería**
 
 En la pestaña **Batería**, es posible seleccionar una fecha para visualizar la información deseada. Al elegir la fecha, el sistema buscará y mostrará los datos de la batería en formato de gráfico.
 
-<figure><img src="../../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 #### **Almacenamiento Libre**
 
 En la pestaña **Almacenamiento Libre**, es posible visualizar la memoria libre en el almacenamiento interno del dispositivo al seleccionar una fecha para visualizar la información deseada. Al elegir la fecha, el sistema buscará y mostrará los datos de almacenamiento en formato de gráfico.
 
-<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
 #### **Geolocalización**
 
@@ -151,7 +151,7 @@ Para visualizar las ubicaciones geográficas de un dispositivo, siga los siguien
 7. Haga clic en el marcador para visualizar la información de la ubicación.&#x20;
 8. Use las funciones del mapa para optimizar la visualización.
 
-<figure><img src="../../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
 #### **No Conformidades**
 
@@ -164,6 +164,6 @@ La pestaña **No Conformidades** estará deshabilitada si el dispositivo no tien
 
 Para cada elemento de no conformidad enumerado, se mostrarán: Nombre del Paquete, Ruta del Campo, Valor Actual, Motivo del Error en la Instalación, Contexto de Wi-Fi y Contexto de la Contraseña de la Política.
 
-<figure><img src="../../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
 
 Es posible **Exportar** y **Copiar**, lo que permite exportar la información del informe a un archivo Excel o copiar la información al portapapeles.

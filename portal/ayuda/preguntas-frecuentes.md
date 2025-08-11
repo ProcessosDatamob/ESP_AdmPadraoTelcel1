@@ -14,4 +14,4 @@ Para ver las preguntas frecuentes, haga clic en el menú "Ayuda", seleccione el 
 
 Al desplazarse hasta el final de la página, tenemos acceso a los Manuales haciendo clic en "Más Información":
 
-<figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>

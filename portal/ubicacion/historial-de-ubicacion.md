@@ -6,7 +6,7 @@ Para ver y generar el reporte, siga los pasos descritos en esta sección.
 
 1. Haga clic en el menú "Ubicación" y seleccione el submenú "Historial de ubicación".
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 2. Seleccione la información del reporte que desea filtrar.
 
@@ -28,4 +28,4 @@ El sistema mostrará todas las ubicaciones de los dispositivos según el filtro 
 9. Utilice el campo de navegación para ver las ubicaciones de las otras páginas del reporte.
 10. Haga clic en el ícono de filtro "v" para seleccionar las columnas que estarán visibles, utilice el campo de búsqueda para buscar las columnas por texto y aplicar el filtro, y luego haga clic en "Guardar" para definir la configuración como predeterminada para el usuario conectado.
 
-<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>

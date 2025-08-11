@@ -19,11 +19,11 @@ Para realizar la instalación de la aplicación, vaya al menú "**Gestión de Ap
 
 3. Abrirá la pantalla con más información de la aplicación. Haga clic en el botón "Seleccionar", como se muestra en la siguiente imagen.
 
-<figure><img src="../../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 4. Pulse sobre el botón confirmar para hacer efectiva la inclusión.
 
-<figure><img src="../../../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 5. La aplicación **Security Browser** aparecerá en la lista de "**Aplicaciones Administradas**", tal como se puede visualizar en la pantalla siguiente.
 
@@ -57,7 +57,7 @@ Después de incluir la aplicación en la directiva, se pueden establecer configu
 
 Al hacer clic en Configuraciones Gestionadas, se mostrará la siguiente pantalla:
 
-<figure><img src="../../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 Las Configuraciones Gestionadas para el Security Browser son:&#x20;
 

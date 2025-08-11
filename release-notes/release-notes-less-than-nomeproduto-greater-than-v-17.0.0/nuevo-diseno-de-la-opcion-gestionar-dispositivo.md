@@ -7,6 +7,6 @@ Al acceder a la pantalla "Lista de Dispositivos" del Portal y hacer clic en la o
 * Pestaña "Batería" - el sistema permitirá seleccionar la fecha de la información que se mostrará. La visualización de la información de la batería será en formato de gráfico, como ya estaba en la pantalla "Historial de Batería" del dispositivo. Con estos cambios, la opción "Historial de Batería" se ha eliminado del menú agrupado del dispositivo en la pantalla "Lista de Dispositivos".
 * Pestaña "Almacenamiento Libre" - el sistema permitirá seleccionar la fecha de la información que se mostrará. La búsqueda se realizará automáticamente al seleccionar la fecha, y la información de almacenamiento libre se mostrará en formato de gráfico, como era en la pantalla "Historial de Almacenamiento" del dispositivo. Con este cambio, la opción "Historial de Almacenamiento" se ha eliminado del menú agrupado del dispositivo en la pantalla "Lista de Dispositivos".
 
-<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
 [Volver a la lista de Release Notes](broken-reference)

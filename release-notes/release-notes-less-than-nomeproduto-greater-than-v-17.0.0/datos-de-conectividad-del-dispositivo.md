@@ -4,6 +4,6 @@ Se ha implementado la funcionalidad de visualización de información de conecti
 
 Al acceder a la “Lista de Dispositivos” y a la pantalla “Gestionar Dispositivo” de un dispositivo Android, el sistema también mostrará la sección de “Conectividad”.
 
-<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 [Volver a la lista de Release Notes](broken-reference)

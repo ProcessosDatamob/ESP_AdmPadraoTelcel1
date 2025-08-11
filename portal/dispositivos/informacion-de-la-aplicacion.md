@@ -4,7 +4,7 @@ El submenú Información de aplicaciones muestra la información de las aplicaci
 
 Haga clic en el menú "**Dispositivos**" opción "**Información de la aplicación**" para acceder a la pantalla.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Se mostrará la siguiente pantalla:
 
@@ -19,16 +19,16 @@ Se mostrará la siguiente pantalla:
 7. Utilice los tres puntos "..." para mostrar el menú de acciones y ver los detalles de la aplicación.
 8. Haga clic en el ícono de filtro para seleccionar las columnas que serán visibles. Use el campo de búsqueda para buscar columnas por texto y aplicar el filtro, luego haga clic en "Guardar" para establecer la configuración como predeterminada en la pantalla para el usuario conectado.
 
-<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
 ### **Historial de Consumo** <a href="#e2p6xqo1hbri" id="e2p6xqo1hbri"></a>
 
 Para acceder a esta pantalla, utilice los tres puntos al final de la línea de la aplicación. En esta pantalla se puede visualizar el gráfico de evolución del consumo de datos de la aplicación en los dispositivos.
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 ### **Usuarios con Aplicación** <a href="#dzvz1gwobjw0" id="dzvz1gwobjw0"></a>
 
 Para acceder a esta pantalla, utilice los tres puntos al final de la línea de la aplicación. En esta pantalla, se puede ver todos los dispositivos que tienen la aplicación instalada.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>

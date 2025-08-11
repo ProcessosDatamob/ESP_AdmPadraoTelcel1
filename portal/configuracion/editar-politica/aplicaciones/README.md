@@ -125,11 +125,11 @@ La opción Agregar aplicaciones tendrá diferentes comportamientos cuando el Mod
 
 * **Modo Kiosco Desactivado:** Al hacer clic en el botón "**Agregar Aplicaciones**", si se trata de una política con modo kiosco desactivado, se mostrarán dos opciones: Play Store, que incluye la lista de aplicaciones que fueron añadidas usando [**Google Play Administrado**](../../../gestion-de-aplicaciones/google-play-administrada.md), y la opción Manual, que permite agregar aplicaciones de forma manual.
 
-<figure><img src="../../../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 * **Modo Quiosco Habilitado:** Si la política que se está editando es una política con el Modo Quiosco Habilitado, al hacer clic en el botón **Agregar aplicaciones**, se mostrarán las 3 opciones para agregar las aplicaciones.
 
-<figure><img src="../../../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
 * **Sistema**
 
@@ -138,7 +138,7 @@ La opción Agregar aplicaciones tendrá diferentes comportamientos cuando el Mod
 3. Seleccione una o más aplicaciones haciendo clic en la casilla
 4. Haga clic en el botón "**Añadir seleccionados**"
 
-<figure><img src="../../../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
 * **Playstore**
 
@@ -146,7 +146,7 @@ La opción Agregar aplicaciones tendrá diferentes comportamientos cuando el Mod
 2. Seleccione una o más aplicaciones haciendo clic en la casilla
 3. Haga clic en el botón "**Añadir seleccionados**"
 
-<figure><img src="../../../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 IMPORTANTE
@@ -167,7 +167,7 @@ El tipo de instalación será "Disponible" y permitirá cambiar el tipo de insta
 Si la aplicación no está en Google Play, las opciones "Preinstalado" e "Instalación forzada" tendrán el mismo efecto que la opción "Disponible". Es decir, la aplicación estará disponible para instalación y el usuario tendrá la opción de instalarla según su conveniencia. No se instala automáticamente en el dispositivo.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (230).png" alt="" width="447"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (232).png" alt="" width="447"><figcaption></figcaption></figure>
 
 * **Remota**
 
@@ -181,19 +181,19 @@ Para definir restricciones de funcionamiento de aplicaciones por días y horario
 
 1. Ícono para acceder a la opción 'Restricciones de Funcionamiento'"
 
-<figure><img src="../../../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 2. Botón selector para activar restricciones.
 
-<figure><img src="../../../../.gitbook/assets/image (75).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (77).png" alt="" width="563"><figcaption></figcaption></figure>
 
-La opción de "Restricciones de Funcionamiento" está disponible para todas las aplicaciones, excepto la aplicación del sistema **\<NombreProduto>** Cuando una aplicación ya tiene restricciones de funcionamiento, su ícono de restricción cambiará y mostrará un pequeño punto rojo<img src="../../../../.gitbook/assets/image (76).png" alt="" data-size="line">.
+La opción de "Restricciones de Funcionamiento" está disponible para todas las aplicaciones, excepto la aplicación del sistema **\<NombreProduto>** Cuando una aplicación ya tiene restricciones de funcionamiento, su ícono de restricción cambiará y mostrará un pequeño punto rojo<img src="../../../../.gitbook/assets/image (78).png" alt="" data-size="line">.
 
 Para activar las restricciones:
 
 1. Seleccione el campo “Permitir restricciones".
 2. Indique la hora de uso para cada día, movendo el punto inicial(hora inicial) e punto final (hora final) con el mouse, o seleccione el campo "Restringir" para bloquear el funcionamiento durante todo el día.
 
-<figure><img src="../../../../.gitbook/assets/image (77).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (79).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Haga clic en "Confirmar" para guardar los cambios. La política enviará la información de las restricciones de la aplicación a los dispositivos vinculados.

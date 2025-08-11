@@ -8,7 +8,7 @@ Por lo tanto, para acceder a los “**Permisos Opcionales**", haga clic en los t
 
 Al expandir las "**Permisos Opcionales**", se mostrarán varias opciones y será posible activar y desactivar cada una de las configuraciones.
 
-<figure><img src="../../../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
 Los "Permisos Opcionales" incluyen los siguientes ajustes:&#x20;
 

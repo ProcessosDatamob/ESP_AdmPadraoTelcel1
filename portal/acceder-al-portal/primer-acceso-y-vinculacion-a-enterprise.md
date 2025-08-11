@@ -38,7 +38,7 @@ Para acceder al Portal de Administración, siga los pasos descritos en esta secc
 11. Pulse el botón "Siguiente'.
 12. Se mostrará la pantalla para ingresar el Token que será enviado al correo electrónico informado.
 
-<figure><img src="../../.gitbook/assets/image (87).png" alt="" width="308"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (89).png" alt="" width="308"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**
@@ -50,7 +50,7 @@ El token de confirmación debe insertarse en la pantalla para confirmar el regis
 
 Si no ha recibido el token por correo electrónico, el usuario puede solicitar que se reenvíe haciendo clic en la opción "Reenviar código" que está disponible justo encima del botón "Confirmar".
 
-<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 Después de esta confirmación, el sistema abrirá la pantalla para "Crear cuenta de administrador".&#x20;
 
@@ -58,7 +58,7 @@ En este paso, se solicitará una cuenta de dominio propia de la empresa , para r
 
 **Ejemplo:** @empresa.com
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 Si el usuario informa a esta cuenta de correo coorporativo conteniendo el Cloud Identity el sistema seguirá el proceso normal del flujo. Si el usuario indica una cuenta que no tiene configurado Cloud Identity, aparecerá la siguiente pantalla:
 

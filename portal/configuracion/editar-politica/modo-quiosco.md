@@ -11,7 +11,7 @@ Para acceder a la configuración del "**Modo Quiosco**", siga estos pasos:&#x20;
 
 3. En la pantalla se mostrará un mensaje de confirmación. Confirme haciendo clic en el botón "Activar".
 
-<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 4. Al activar el Modo Quiosco en la política y aprovisionar un dispositivo con esta política, la aplicación Kiosk Launcher Manager se instalará automáticamente en el dispositivo.
 
@@ -40,7 +40,7 @@ Otra opción, para no tener que dejar el acceso a las configuraciones liberado, 
 
 * **Servicios de telefonía adicionales:** permite definir los servicios de telefonía como "Activo" o "Definido por dispositivo". Al definir como "Activo" y guardar la política, el sistema enviará los paquetes de servicios de telefonía al dispositivo, lo que permitirá recibir y realizar llamadas en el dispositivo que provisiona la política. Al definir como "Definido por  Dispositivo", el dispositivo funcionará según su configuración estándar, teniendo o no los servicios.
 
-<figure><img src="../../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 * **Fondo de pantalla** - Es posible cargar una imagen para el fondo de pantalla en la política y establecer la orientación de la pantalla, la cual se enviará a la aplicación.
 * **Color de fuente de los iconos** - Permite configurar el color del texto de los iconos en la pantalla de inicio.
@@ -50,7 +50,7 @@ Otra opción, para no tener que dejar el acceso a las configuraciones liberado, 
 * **Posicionamiento de la imagen** - Permite seleccionar la posición de la imagen del fondo de pantalla en la pantalla de inicio del dispositivo.
 * **Bloquear acceso a las configuraciones de Wi-Fi** - impide que los usuarios accedan y modifiquen las configuraciones de Wi-Fi durante la inicialización y el uso del dispositivo en el modo Kiosco.
 
-<figure><img src="../../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 * **Acceso Temporal al Dispositivo** - Configuración para permitir que el usuario acceda al dispositivo durante un tiempo determinado. Para activar el permiso, deslice el interruptor hacia la derecha desde la pantalla principal. Además, es posible definir la duración del acceso del usuario al dispositivo, que puede ser de 5, 10, 15, 30 minutos ó 1 hora. Al habilitar el acceso temporal, se generará una contraseña para que el usuario pueda acceder al dispositivo. En la sección "Opciones de Gestión de Dispositivos" detallaremos mejor cómo funcionará.
 
@@ -62,7 +62,7 @@ A continuación, listamos los accesos que el usuario tendrá en el dispositivo a
 
 Después de finalizar el tiempo definido, el Modo Kiosco se activará nuevamente de forma automática.
 
-<figure><img src="../../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 ## **Modo Quiosco ChromeOS**
 
@@ -84,7 +84,7 @@ Para acceder a las configuraciones de la política:
 * Unidades Organizacionales: seleccione las unidades que contienen los dispositivos.
 * Unidad Organizacional de Destino: seleccione dónde se aplicará el Modo Quiosco.
 
-<figure><img src="../../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Nota**

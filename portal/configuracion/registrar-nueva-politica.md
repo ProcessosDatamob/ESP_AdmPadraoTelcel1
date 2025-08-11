@@ -2,9 +2,9 @@
 
 Esta pantalla del sistema tiene el objetivo de realizar el registro de nuevas políticas. Para iniciar el registro de una nueva política seleccione la opción "**Registrar nueva política**" en el menú "**Configuraciones**".
 
-<figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 
 La pantalla de inicio del registro de políticas se muestra a continuación.
 
@@ -24,7 +24,7 @@ Después del registro de la política se abrirá la pantalla "[Editar política]
 
 Al hacer clic en copiar una política es posible vincular la política a cualquier grupo existente en la Empresa; la selección del grupo es opcional.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Observación**\

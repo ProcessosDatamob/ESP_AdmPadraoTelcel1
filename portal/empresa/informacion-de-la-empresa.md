@@ -17,7 +17,7 @@ Para ver o cambiar los datos de la empresa, siga los pasos descritos a continuac
     * Sin el ID del Cliente, el sistema no podrá comunicarse correctamente con los dispositivos ChromeOS, limitando la aplicación de políticas y configuraciones específicas para su organización. Asegúrese de ingresar el ID correctamente para garantizar el pleno funcionamiento de la integración.
 4. Después de finalizar, haga clic en "Actualizar" para guardar los cambios.
 
-<figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 ## **Eliminar Empresa**
 

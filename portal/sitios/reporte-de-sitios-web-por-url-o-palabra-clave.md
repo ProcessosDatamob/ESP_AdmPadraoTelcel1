@@ -19,4 +19,4 @@ Se abrirá la siguiente pantalla:
 6. Para copiar la información del reporte, haga clic en el enlace "Copiar". Se copiará al portapapeles únicamente la información de las columnas visibles en la pantalla.
 7. Haga clic en el ícono de filtro "v" para seleccionar las columnas que serán visibles. Utilice el campo de búsqueda para localizar columnas por texto y aplicar el filtro. Luego, haga clic en "Guardar" para establecer la configuración como predeterminada en la pantalla para el usuario conectado.
 
-<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>

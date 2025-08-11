@@ -4,4 +4,4 @@ El dashboard del portal ahora cuenta con íconos de ayuda que ofrecen explicacio
 
 Más información en la sección [**Dashboard**](../../portal/dashboard.md).
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>

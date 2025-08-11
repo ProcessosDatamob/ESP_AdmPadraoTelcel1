@@ -19,7 +19,7 @@ Al acceder a la pantalla, el sistema no permitirá cambiar la información del c
 
 1. Al acceder a la pantalla, el sistema mostrará una lista con todos los usuarios administradores.
 
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 2. Para buscar un usuario, ingrese el nombre del usuario en el campo "Buscar".
 3. Para ordenar la información mostrada, haga clic en el título de la información que desee.
@@ -44,7 +44,7 @@ La contraseña solo podrá ser confirmada después de cumplir con todos los requ
 
 Para que sea posible cambiar la contraseña, la contraseña registrada debe cumplir con todos los requisitos exigidos, garantizando así la seguridad necesaria para el acceso.
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (52).png>)
 {% endhint %}
 
 7. Para crear un usuario administrador, haga clic en "Registrar nuevo".

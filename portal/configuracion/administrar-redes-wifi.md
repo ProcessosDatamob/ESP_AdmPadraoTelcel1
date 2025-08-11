@@ -6,11 +6,11 @@ Para acceder a la pantalla Administrar Redes Wifi, debemos acceder al menú "Con
 
 Al acceder al submenú se mostrará la siguiente pantalla, haga clic en "Agregar":
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 Después de hacer clic en 'Agregar', aparecerá la siguiente pantalla para rellenar los datos de la red Wi-Fi. Todos los campos deben ser completados y, finalmente, haga clic en 'Guardar'.
 
-<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 * **Nombre de la Configuración:** identificación personalizada para la red Wi-Fi configurada.
 * **SSID:** nombre de la red Wi-Fi que se mostrará a los usuarios.

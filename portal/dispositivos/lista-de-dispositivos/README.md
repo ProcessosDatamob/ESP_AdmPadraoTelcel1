@@ -4,11 +4,11 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 
 Haga clic en el menú "Dispositivos" opción "Lista de dispositivos" para acceder a la pantalla.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Se mostrará la siguiente pantalla:
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 2. En la parte superior de la pantalla, el sistema muestra la distribución de los dispositivos, separados por fabricantes.
 3. Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar.
@@ -23,7 +23,7 @@ Se mostrará la siguiente pantalla:
 10. Ordene las columnas: Usuario, Identificación, Licencia, IMEI, Modelo, Fecha de Registro y Fecha de la última comunicación, utilizando las flechas "↑↓" al lado de cada columna.
 11. Haga clic en el ícono de filtro para seleccionar las columnas que serán visibles, use el campo de búsqueda para buscar las columnas por texto y realizar el filtro, luego haga clic en "Guardar" para definir la configuración como predeterminada para la pantalla del usuario que ha iniciado sesión. Si el usuario no realiza la personalización, se mostrarán las siguientes columnas como predeterminadas: Usuario, Identificación, Licencia, IMEI, Modelo y Política.
 
-<figure><img src="../../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
 Las opciones de columnas disponibles son: Usuario, Identificación, Licencia, IMEI, Modelo, Número de Serie, Política, Modo de Gestión, Versión de la aplicación , ICCID, Fabricante, Fecha de Registro, Sistema Operativo, Grupo, Departamento, Teléfono del Usuario, Estado, Fecha de la última comunicación, Localidad, Distancia a la Localidad.
 
@@ -33,7 +33,7 @@ Las opciones de columnas disponibles son: Usuario, Identificación, Licencia, IM
 
 Ao hacer clic en la opción "Acciones por lotes", el sistema mostrará una pantalla que contiene algunos campos para completar, como se puede ver en la pantalla a continuación.
 
-<figure><img src="../../../.gitbook/assets/image (191).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (193).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * Empresa: haga clic en el campo "Empresa" y luego en el nombre de la empresa para enviar un comando a todos los dispositivos de la empresa (al seleccionar la empresa, los campos de grupo y usuario se desactivarán).&#x20;
 * Grupos: haga clic en "Grupo" y elija el grupo deseado.&#x20;

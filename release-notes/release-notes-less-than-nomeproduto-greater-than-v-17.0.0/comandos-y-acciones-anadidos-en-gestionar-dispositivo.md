@@ -4,6 +4,6 @@ En esta versión, al acceder a la opción "Gestionar" de un dispositivo, las fun
 
 Más información en la sección [Opciones de Gestión de Dispositivos](../../portal/dispositivos/lista-de-dispositivos/opciones-de-administracion-de-dispositivos-1.md).
 
-<figure><img src="../../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 
 [Volver a la lista de Release Notes](broken-reference)
