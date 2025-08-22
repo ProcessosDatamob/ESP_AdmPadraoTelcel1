@@ -67,6 +67,8 @@
     * [Preguntas Frecuentes](portal/ayuda/preguntas-frecuentes.md)
     * [Documentos y Materiales de Apoyo](portal/ayuda/documentos-y-materiales-de-apoyo.md)
 * [RELEASE NOTES](release-notes/README.md)
+  * [Release Notes Control Móvil Empresarial V 20.7.2](release-notes/release-notes-control-movil-empresarial-v-20.7.2/README.md)
+    * [Ajustes y Correcciones de la Versión V 20.7.2](release-notes/release-notes-control-movil-empresarial-v-20.7.2/ajustes-y-correcciones-de-la-version-v-20.7.2.md)
   * [Release Notes \<NomeProduto> V 20.7.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.7.0/README.md)
     * [Ajustes y Correcciones de la Versión V20.7.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.7.0/ajustes-y-correcciones-de-la-version-v20.7.0.md)
   * [Release Notes \<NomeProduto> V 20.6.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.6.0/README.md)
